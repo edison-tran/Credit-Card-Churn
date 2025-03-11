@@ -1,7 +1,3 @@
-SELECT *
-FROM [dbo].[BankChurners$]	
-
-
 --Calcualting The Churn Rate Per Age Group
 SELECT 
     CASE WHEN Customer_Age BETWEEN 26 AND 41 THEN '26-41'
