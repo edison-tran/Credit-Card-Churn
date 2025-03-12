@@ -1,4 +1,14 @@
 # Credit Card Churn Analysis
+**Tools Used: Excel, MS SQL Server, Tableau**
+
+[Dataset Used](https://www.kaggle.com/datasets/sakshigoyal7/credit-card-customers/data)
+
+[Tableau Visualization](https://public.tableau.com/app/profile/edison.tran/viz/CreditCardChurn_17417959876420/Dashboard1)
+
+[Tableau Visualization](https://public.tableau.com/app/profile/edison.tran/viz/CreditCardChurnDashboard2/Dashboard2)
+
+[Tableau Visualization](https://public.tableau.com/app/profile/edison.tran/viz/CreditCardChurnDashboard3/Dashboard3)
+
 ## Introduction
 In today’s competitive financial services landscape, retaining valuable customers is more critical and challenging than ever.
 Credit card companies, in particular, face significant costs in acquiring new customers while managing the risk of attrition
